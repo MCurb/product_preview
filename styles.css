@@ -1,0 +1,19 @@
+
+.container-div {
+    display: flex;
+}
+
+.info-div {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 100%;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
